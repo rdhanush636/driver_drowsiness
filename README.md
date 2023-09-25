@@ -1,12 +1,14 @@
 # Drowsiness Detection System(webapp)
 
-Driver drowsiness detection is a technology designed to monitor a driver's alertness and detect signs of drowsiness or fatigue while operating a vehicle. It aims to enhance road safety by alerting the driver or taking preventive actions to reduce the risk of accidents caused by drowsy driving
+
 
 <a href = "https://youtu.be/YyIMsBBEukw">Click Here to see the demo</a> <br>
 <img src="https://img.shields.io/github/repo-size/fear-the-lord/Drowsiness-Detection"> <img src="https://img.shields.io/github/license/fear-the-lord/Drowsiness-Detection"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/fear-the-lord/Drowsiness-Detection"> <img alt="Libraries.io dependency status for GitHub repo" src="https://img.shields.io/librariesio/github/fear-the-lord/Drowsiness-Detection"> <img src = "https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/fear-the-lord/Drowsiness-Detection"> <img src = "https://img.shields.io/youtube/views/YyIMsBBEukw?style=social">
 
 ## Motivation: 
 According to the National Highway Traffic Safety Administration, every year about 100,000 police-reported crashes involve drowsy driving. These crashes result in more than 1,550 fatalities and 71,000 injuries. The real number may be much higher, however, as it is difficult to determine whether a driver was drowsy at the time of a crash. So, we tried to build a system, that detects whether a person is drowsy and alert him.
+
+Driver drowsiness detection is a technology designed to monitor a driver's alertness and detect signs of drowsiness or fatigue while operating a vehicle. It aims to enhance road safety by alerting the driver or taking preventive actions to reduce the risk of accidents caused by drowsy driving
 
 ## Installing and Configuring dlib:
 We need to create an enivronment in order to install dlib, as it cannot be directly installed using pip. So, follow this commands in order to install dlib into your system if you haven't installed it previously. Make sure you have Anaconda installed, as we will be doing everyting in Anaconda Prompt. 

@@ -1,4 +1,7 @@
 # Drowsiness Detection System(webapp)
+
+Driver drowsiness detection is a technology designed to monitor a driver's alertness and detect signs of drowsiness or fatigue while operating a vehicle. It aims to enhance road safety by alerting the driver or taking preventive actions to reduce the risk of accidents caused by drowsy driving
+
 <a href = "https://youtu.be/YyIMsBBEukw">Click Here to see the demo</a> <br>
 <img src="https://img.shields.io/github/repo-size/fear-the-lord/Drowsiness-Detection"> <img src="https://img.shields.io/github/license/fear-the-lord/Drowsiness-Detection"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/fear-the-lord/Drowsiness-Detection"> <img alt="Libraries.io dependency status for GitHub repo" src="https://img.shields.io/librariesio/github/fear-the-lord/Drowsiness-Detection"> <img src = "https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/fear-the-lord/Drowsiness-Detection"> <img src = "https://img.shields.io/youtube/views/YyIMsBBEukw?style=social">
 
@@ -116,7 +119,7 @@ We have used and Android App available for free in Play Store, named IP Webcam. 
 
 After starting the server, an IP will be displayed on the screen. Open the file <b>android_cam.py</b>. In <b>line 36</b> put the given IP. 
 ```python
-url = "http://<YOUR_IP_HERE>/shot.jpg"
+
 ```
 <b>Also, make sure that the phone and PC/Laptop is connected to the same network.</b>
 
